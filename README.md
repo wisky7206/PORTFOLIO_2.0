@@ -1,1 +1,1 @@
-This portfolio showcases Harshit's web development skills using React. Explore interactive projects built with modern libraries and frameworks. Get a glimpse of Harshit's passion for crafting user-friendly and dynamic web experiences.
+
